@@ -55,7 +55,7 @@ Before running the project, ensure you have the following dependencies installed
 1. Clone the repository:
 
    ```bash
-   git clone https://github.com/jeeban101/AI-Enabled-Candidate-Resume-Screening-
+   git clone https://github.com/xargs0/AI-Enabled-Candidate-Resume-Screening-
    1.Navigate to the project directory:
 	cd AI-Enabled-Candidate-Resume-Screening-
    2.Install the required Python packages:
