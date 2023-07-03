@@ -78,8 +78,8 @@ if Error:
 -pip install pyresparser
 does the trick. Also try different spacy versions and models, because they produce different results. Haven't tested any further myself. Hope this helps :)
 
-Assignments(https://drive.google.com/drive/folders/1Sxp0-cwl0nEDT5cbkbB3b8RUhwZSfi9h?usp=sharing)
-The "Assignments-AI-20BIT0441" folder contains assignments in Jupyter Notebook format. Each assignment is a separate .ipynb file that demonstrates different concepts and techniques related to AI.
+Assignments(https://drive.google.com/drive/folders/1n4BxBZKR4xIJebcidO25xSw1zwYq8sxV?usp=sharing)
+The "Assignments_20BIT0444" folder contains assignments in Jupyter Notebook format. Each assignment is a separate .ipynb file that demonstrates different concepts and techniques related to AI.
 
 Additional Files
 
@@ -87,7 +87,7 @@ Report: The project report is available in the repository. It provides detailed 
 
 Demo Video: A demo video showcasing the project functionality is available here.
 
-Data Sets(for assignments)(Link:https://drive.google.com/drive/folders/1n4BxBZKR4xIJebcidO25xSw1zwYq8sxV?usp=sharing): The project utilizes specific data sets for training and evaluation purposes. These data sets can be accessed via the Google Drive link provided in the repository.
+Data Sets(for assignments)(Link:https://drive.google.com/drive/folders/1n4BxBZKR4xIJebcidO25xSw1zwYq8sxV?usp=sharing): The data sets can be accessed via the Google Drive link provided in the repository.
 
 Contributing
 Contributions to this project are welcome. If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
