@@ -24,17 +24,20 @@ Before running the project, ensure you have the following dependencies installed
 - `Resume_parser.py`: Resume parsing module.
 - `templates/`: HTML templates for the web application.
 - `static/`: Static files (CSS, images, etc.) for the web application.
-- `Assignments-AI-20BIT0441/`: Folder containing assignment notebooks and datasets.
+- `Assignments_20BIT0444/`: Folder containing assignment notebooks and datasets.
 
 ## Additional Resources
 
 - [Demo Video](https://drive.google.com/file/d/1R8K-JbSm0XpSLmjK_8FCeyr-EzEs84uQ/view?usp=sharing): Watch a demonstration of the project in action.
-- [Project Report](https://github.com/jeeban101/AI-Enabled-Candidate-Resume-Screening-/blob/main/Project%20Report%20AI%20Resume%20Screening.pdf): Read the report documenting the assignments.
-- [Drive Folder](https://drive.google.com/drive/folders/1Sxp0-cwl0nEDT5cbkbB3b8RUhwZSfi9h?usp=sharing): Access the assignments and datasets on Google Drive.
+- [Project Report](https://github.com/xargs0/AI-Enabled-Candidate-Resume-Screening-/blob/main/Project%20Report%20AI%20Resume%20Screening.pdf): Read the report documenting the project.
+- [Drive Folder](https://drive.google.com/drive/folders/1n4BxBZKR4xIJebcidO25xSw1zwYq8sxV?usp=sharing): Access the assignments and datasets on Google Drive.
 
 ## Contributors
 
-- Jeeban Bhagat (https://github.com/jeeban101/AI-Enabled-Candidate-Resume-Screening-)
+- Ashutosh Raj Shrestha (https://github.com/xargs0/AI-Enabled-Candidate-Resume-Screening-)(20BIT0444, VIT, Vellore)
+- Danvarsha Meka(https://github.com/varshh10/AI-enabled-Resume-Screening.git) (20BCR7102, VIT-AP)
+- Jeeban Bhagat (https://github.com/jeeban101/AI-Enabled-Candidate-Resume-Screening-) (20BIT0441, VIT, Vellore)
+- P.Satyanarayana Reddy (https://github.com/Satyaa01/AWS-Project) (20BRS1263, VIT, Chennai)
 
 
 ## Requirements
@@ -79,11 +82,12 @@ Assignments(https://drive.google.com/drive/folders/1Sxp0-cwl0nEDT5cbkbB3b8RUhwZS
 The "Assignments-AI-20BIT0441" folder contains assignments in Jupyter Notebook format. Each assignment is a separate .ipynb file that demonstrates different concepts and techniques related to AI.
 
 Additional Files
+
 Report: The project report is available in the repository. It provides detailed information about the system architecture, algorithms used, and evaluation results.
 
 Demo Video: A demo video showcasing the project functionality is available here.
 
-Data Sets(for assignments)(Link:https://drive.google.com/drive/folders/1Sxp0-cwl0nEDT5cbkbB3b8RUhwZSfi9h?usp=sharing): The project utilizes specific data sets for training and evaluation purposes. These data sets can be accessed via the Google Drive link provided in the repository.
+Data Sets(for assignments)(Link:https://drive.google.com/drive/folders/1n4BxBZKR4xIJebcidO25xSw1zwYq8sxV?usp=sharing): The project utilizes specific data sets for training and evaluation purposes. These data sets can be accessed via the Google Drive link provided in the repository.
 
 Contributing
 Contributions to this project are welcome. If you have any suggestions or improvements, feel free to open an issue or submit a pull request.
